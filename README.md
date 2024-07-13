@@ -29,7 +29,7 @@ I'm a passionate MERN stack developer and undergraduate researcher at IIIT Hyder
 ### [Opensource.Build](https://github.com/sahil-idk/opensource.build)
 An open-source platform to help enthusiasts track and rank their contributions with issue tracking and detailed analytics.
 
-### [Review-IIITH](https://github.com/sahildkun/review-iiith)
+### [Review-IIITH](https://github.com/sahildkun/review-backend)
 A full-stack course review platform for IIIT Hyderabad students.
 
 ### [MO Store](https://github.com/sahildkun/mo-store)
